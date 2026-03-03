@@ -1,0 +1,11 @@
+Education,City,PaymentTier,Age,Gender,EverBenched,ExperienceInCurrentDomain,LeaveOrNot
+Bachelors,Bangalore,3,34,Male,No,0,0
+Masters,Pune,1,28,Female,No,3,1
+Bachelors,New Delhi,2,38,Female,No,2,0
+Masters,Bangalore,3,27,Male,Yes,5,1
+PHD,New Delhi,3,24,Female,No,2,0
+Bachelors,Pune,1,43,Male,No,7,1
+Bachelors,Bangalore,2,29,Male,No,3,0
+Masters,New Delhi,3,31,Female,No,1,0
+PHD,Pune,3,22,Male,No,0,0
+Bachelors,Bangalore,3,35,Male,No,5,0

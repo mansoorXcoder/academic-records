@@ -1,0 +1,23 @@
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install scipy
+pip install jupyter
+pip install notebook
+pip install nltk
+pip install opencv-python
+pip install tensorflow
+pip install keras
+pip install torch torchvision torchaudio
+pip install statsmodels
+pip install plotly
+pip install imbalanced-learn
+pip install xgboost
+pip install lightgbm
+pip install mlxtend         
+pip install pydotplus       
+pip install graphviz
+pip install wordcloud       
+python -c "import numpy, pandas, sklearn; print('OK')"
